@@ -6,10 +6,29 @@ A comprehensive collection of cybersecurity projects, assessments, and documenta
 
 This repository contains various cybersecurity projects and documentation covering topics such as incident response, risk assessment, access control, Python scripting for security, SQL queries, threat modeling, and compliance frameworks. The projects demonstrate practical application of cybersecurity concepts, tools, and methodologies.
 
+## 🏅 Certifications
+
+This repository includes professional certifications and job simulation certificates:
+
+- ✅ **Google Cybersecurity Professional Certificate**
+- ✅ **Cisco Introduction to Cybersecurity Certificate**
+- ✅ **Goldman Sachs - Risk Job Simulation Certificate**
+- ✅ **Mastercard - Cybersecurity Job Simulation Certificate**
+- ✅ **HISPI Certificate**
+
+All certificates are located in the `Cybersecurity Certificates/` folder.
+
 ## 📁 Repository Structure
 
 ```
 Google-Cybersecurity-Professional-Projects/
+│
+├── Cybersecurity Certificates/
+│   ├── GOOGLE CYBERSECURITY CERTIFICATE.pdf
+│   ├── CISCO - Introduction to Cybersecurity Certificate.pdf
+│   ├── Goldman Sachs - Risk Job Simulation Certificate.pdf
+│   ├── Mastercard - Cybersecurity Job Simulation Certificate.pdf
+│   └── HISPI Certificate.pdf
 │
 ├── Google Cybersecurity Certifiication Projects/
 │   ├── Incident Reports & Analysis/
@@ -19,7 +38,6 @@ Google-Cybersecurity-Professional-Projects/
 │   ├── SQL & Database/
 │   ├── Security Frameworks & Methodologies/
 │   ├── Security Controls & Compliance/
-│   ├── Certificates/
 │   └── Attack Vectors & Threats/
 │
 └── Osemudianmen Aisuodionoe-Shadrach CS108 Project.zip
@@ -108,14 +126,20 @@ Security controls, compliance, and data handling:
 - `Determine appropriate data handling practices.pdf`
 - `Classifiying home asset inventory sensitivity.pdf`
 
-### 🏆 Certificates (2 documents)
-Professional certifications and foundations:
+### 🏆 Cybersecurity Certificates (5 certificates)
+Professional certifications and job simulation certificates:
+- Google Cybersecurity Professional Certificate
 - Cisco Introduction to Cybersecurity Certificate
-- Foundations of Cyber Security documentation
+- Goldman Sachs Risk Job Simulation Certificate
+- Mastercard Cybersecurity Job Simulation Certificate
+- HISPI Certificate
 
-**Key Files:**
-- `CISCO INTRO TO CYBERSECURITY CERTIFICATE.pdf`
-- `Foundations of Cyber Security.pdf`
+**Certificates:**
+- `GOOGLE CYBERSECURITY CERTIFICATE.pdf`
+- `CISCO - Introduction to Cybersecurity Certificate.pdf`
+- `Goldman Sachs - Risk Job Simulation Certificate.pdf`
+- `Mastercard - Cybersecurity Job Simulation Certificate.pdf`
+- `HISPI Certificate.pdf`
 
 ### ⚠️ Attack Vectors & Threats (1 project)
 Threat analysis and attack vector identification:
@@ -129,10 +153,21 @@ Threat analysis and attack vector identification:
 
 - **CS108 Project**: `Osemudianmen Aisuodionoe-Shadrach CS108 Project.zip` - Additional coursework project
 
+## 🏅 Certifications & Achievements
+
+This repository showcases completion of:
+- **Google Cybersecurity Professional Certificate** - Comprehensive cybersecurity training program
+- **Cisco Introduction to Cybersecurity** - Networking and security fundamentals
+- **Job Simulation Certificates** - Practical experience through industry simulations:
+  - Goldman Sachs Risk Management Simulation
+  - Mastercard Cybersecurity Simulation
+- **HISPI Certificate** - Additional professional certification
+
 ## 📊 Project Statistics
 
 - **Total Projects**: 30+ PDF documents
-- **Categories**: 9 organized categories
+- **Certificates**: 5 professional and job simulation certificates
+- **Categories**: 8 organized project categories
 - **Focus Areas**: Incident Response, Risk Management, Access Control, Python Scripting, SQL, Threat Modeling, Compliance
 
 ## 🔧 Technologies & Tools
