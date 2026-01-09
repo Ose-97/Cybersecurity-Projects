@@ -121,11 +121,6 @@ Security controls, compliance, and data handling:
 - Data handling practices and classification
 - Asset inventory sensitivity classification
 
-**Key Files:**
-- `Controls and compliance checklist.pdf`
-- `Determine appropriate data handling practices.pdf`
-- `Classifiying home asset inventory sensitivity.pdf`
-
 ### 🏆 Cybersecurity Certificates (5 certificates)
 Professional certifications and job simulation certificates:
 - Google Cybersecurity Professional Certificate
@@ -177,22 +172,6 @@ This repository showcases completion of:
 - **Operating Systems**: Linux
 - **Security Frameworks**: PASTA, NIST, CIS Controls
 - **Documentation**: PDF reports and assessments
-
-## 📝 Notes
-
-- All projects are organized by topic area for easy navigation
-- Each category contains relevant documentation and assessments
-- Projects demonstrate practical cybersecurity skills and methodologies
-- Documentation follows industry-standard reporting formats
-
-## 🔗 Related Resources
-
-- [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
-- [Cisco Networking Academy](https://www.netacad.com/)
-
-## 📄 License
-
-Educational projects completed as part of cybersecurity certification programs.
 
 ---
 
